@@ -1,1 +1,3 @@
 # D3.js-Interactive-Div-Elements-Challenge-
+
+This project was about creating a web pages to make div elements an interactive process.Each div will represent a data point which will change color in the GoLive server. The style for the div elements showed height, width, background color of green , margin and border.  In order to change the div elements style, attach event listeners for mouseover and mouseout. 
